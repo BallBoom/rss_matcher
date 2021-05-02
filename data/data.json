@@ -1,0 +1,12 @@
+[
+    {
+        "site": "npr",
+        "link": "http://www.npr.org/rss/rss.php?id=1001",
+        "type": "rss"
+    },
+    {
+        "site": "reta",
+        "link": "https://www.moerats.com/feed/",
+        "type": "rss"
+    }
+]
